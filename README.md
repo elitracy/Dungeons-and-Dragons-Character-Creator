@@ -1,2 +1,2 @@
 # Dungeons-and-Dragons-Character-Creator
-exactly what it sounds like...
+Peusdo-random character generator to help jumpstart Dungeons and Dragons adventures. :)
